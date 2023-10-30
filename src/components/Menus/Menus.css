@@ -1,0 +1,68 @@
+.navbar-profile-pic img {
+  border-radius: 90px;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  vertical-align: middle;
+  margin: 0 auto;
+  /* margin-top: 20px; */
+}
+
+.nav-item {
+  color: white;
+  /* margin-top: 30px; */
+  margin-left: 25px;
+}
+.nav-link {
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.nav-link svg {
+  margin-right: 10px;
+}
+.nav-link:hover {
+  color: #f29f67;
+}
+
+.nav-link .active {
+  color: #f29f67;
+  border-left: 5px solid #f29f67;
+  padding-left: 10px;
+  text-decoration: none;
+}
+.name-change {
+  text-align: center;
+  color: azure;
+}
+.name-changes {
+  text-align: center;
+  color: #25d366;
+}
+
+
+
+.side-icon a {
+  font-size: 25px;
+  margin-left: 12px;
+  color: #ffffff;
+}
+.linkedin :hover{
+  color: #0072b1;
+}
+.youtube :hover{
+  color: #b2071d;
+}
+.facebook :hover{
+  color:  #0866FF;
+}
+.github :hover{
+  color: #4078c0;
+}
+.instagram :hover{
+  color: #E4405F;
+}
+#side-icons{
+  background-color: rgb(6, 4, 4);
+}
+
